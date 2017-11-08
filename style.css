@@ -1,0 +1,35 @@
+#content{
+			width: 60%;
+			margin: 25px auto;
+			border: 1px solid #cbcbcb;
+			background : #B22222;
+		}
+		form{
+			width: 60%;
+			margin: 20px auto;
+		}
+		form div{
+			margin-top: 5px;
+		}
+		#img_div{
+			width: 80%;
+			padding: 5px;
+			margin: 15px auto;
+			border: 1px solid #cbcbcb;
+			background-color:  	#B22222;
+		}
+		#img_div:after{
+			content: "";
+			display: block;
+			clear: both;
+			background-color:  	#B22222;
+		}
+		img{
+			float: left;
+			margin: 5px;
+			width: 300px;
+			height: 140px;
+		}
+		body{
+			background-color: black;
+		}
